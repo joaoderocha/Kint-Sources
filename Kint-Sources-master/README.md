@@ -1,8 +1,8 @@
 # Kint #
-[<img src="https://cdn.discordapp.com/attachments/429478365678796831/493754024261058560/Underground_Student_Council_Prison_School_1920x1200_-_Imgur.jpg">](https://discord.gg/MVyUedY)
 
 # Discord #
 [Discord for Help] https://discord.gg/MVyUedY
+
 
 # Information! #
 A master branch is to which we will push only stable changes that got confirmed, we develop now on dev branch, please dont ask for help with using dev branch, its unstable and designed only for advanced users.
